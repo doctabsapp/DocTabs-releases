@@ -54,6 +54,6 @@ It sends one anonymous "the app is in use today" signal so we know how many peop
 
 ## Say hi
 
-Found a bug or have an idea? [Open an issue](https://github.com/doctabsapp/DocTabs-releases/issues) or write to support@doctabs.app. We read everything 💜
+Found a bug or have an idea? [Open an issue](https://github.com/doctabsapp/DocTabs-releases/issues) or write to [doctabsapp@gmail.com](mailto:doctabsapp@gmail.com). We read everything 💜
 
 [Instagram](https://www.instagram.com/doctabs.app/) · [X](https://x.com/doctabsapp)
