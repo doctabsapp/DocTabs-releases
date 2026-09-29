@@ -1,0 +1,56 @@
+name: Bug report
+description: Something in DocTabs isn't working the way it should.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to tell us. The more detail you share, the faster we can fix it.
+  - type: dropdown
+    id: system
+    attributes:
+      label: Computer
+      options:
+        - Mac
+        - Windows
+    validations:
+      required: true
+  - type: input
+    id: system-version
+    attributes:
+      label: System version
+      placeholder: macOS 15.1 or Windows 11 24H2
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: DocTabs version
+      description: Click the DocTabs icon and choose About DocTabs.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: office-version
+    attributes:
+      label: Office version
+      placeholder: Microsoft 365, Word 16.89
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Tell us what you expected and what you saw instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open two Excel files
+        2. Click the second tab
+        3. ...
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or recordings
+      description: Drag images or a short video here. They help a lot.

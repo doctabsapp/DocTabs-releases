@@ -1,0 +1,28 @@
+name: Idea
+description: Suggest a new feature or an improvement.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: We read every idea. Tell us what would make your work with Word, Excel and PowerPoint easier.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What slows you down?
+      description: Describe the situation, not the solution yet.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+    validations:
+      required: true
+  - type: dropdown
+    id: system
+    attributes:
+      label: Computer
+      multiple: true
+      options:
+        - Mac
+        - Windows

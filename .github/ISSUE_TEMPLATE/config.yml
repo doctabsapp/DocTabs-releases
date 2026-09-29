@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Install guide
+    url: https://doctabs.app/guide/
+    about: Step-by-step help for installing DocTabs on Mac and Windows.
+  - name: Frequently asked questions
+    url: https://doctabs.app/#faq
+    about: Quick answers about permissions, privacy, languages and more.
+  - name: Press Kit
+    url: https://doctabs.app/press/
+    about: Logos, screenshots and facts for articles and reviews.
