@@ -31,4 +31,4 @@ It sends one anonymous "the app is in use today" signal so we know how many peop
 
 Found a bug or have an idea? [Open an issue](https://github.com/doctabsapp/DocTabs-releases/issues) or write to [support@doctabs.app](mailto:support@doctabs.app). We read everything 💜
 
-[doctabs.app](https://doctabs.app) · [Facebook](https://www.facebook.com/doctabsapp) · [Instagram](https://www.instagram.com/doctabs.app/) · [X](https://x.com/doctabsapp)
+[doctabs.app](https://doctabs.app) · [Facebook](https://www.facebook.com/doctabsapp) · [Instagram](https://www.instagram.com/doctabs.app/) · [X](https://x.com/doctabsapp) · [Youtube](https://www.youtube.com/@DocTabsApp)
