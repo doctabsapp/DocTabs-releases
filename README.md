@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/doctabsapp/DocTabs-releases/releases/latest/download/DocTabs.dmg"><b>Download for Mac</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/doctabsapp/DocTabs-releases/releases/latest/download/DocTabs-setup.exe"><b>Download for Windows</b></a>
+  <a href="https://apps.microsoft.com/detail/9pj1jq22qp0w"><b>Download for Windows</b></a>
   &nbsp;·&nbsp;
   <a href="https://doctabs.app">doctabs.app</a>
 </p>
@@ -49,9 +49,8 @@ The DocTabs icon appears in the menu bar, and the bar shows up whenever Word, Ex
 
 ## Install on Windows
 
-1. [Download DocTabs-setup.exe](https://github.com/doctabsapp/DocTabs-releases/releases/latest/download/DocTabs-setup.exe) and double-click it.
-2. If Windows says **Windows protected your PC**, click **More info**, then **Run anyway**.
-3. That's it. DocTabs installs itself in a few seconds and opens on its own. There are no permissions to allow.
+1. Open [DocTabs on the Microsoft Store](https://apps.microsoft.com/detail/9pj1jq22qp0w) and click **Get**.
+2. That's it. DocTabs installs in a few seconds. There are no permissions to allow.
 
 The DocTabs icon appears in the taskbar next to the clock. If you don't see it, click the **^** arrow to show hidden icons.
 
@@ -67,7 +66,7 @@ Step-by-step guide with pictures for both: [doctabs.app/guide](https://doctabs.a
 
 ## Updates
 
-DocTabs checks for new versions on its own and asks before installing one. You can also choose **Check for Updates…** from its menu bar or taskbar icon. Every version is listed on the [Releases](https://github.com/doctabsapp/DocTabs-releases/releases) page, and what changed is on [doctabs.app/changelog](https://doctabs.app/changelog/).
+On Mac, DocTabs checks for new versions on its own and asks before installing one. You can also choose **Check for Updates…** from its menu bar icon. On Windows, the Microsoft Store keeps DocTabs up to date for you. Every version is listed on the [Releases](https://github.com/doctabsapp/DocTabs-releases/releases) page, and what changed is on [doctabs.app/changelog](https://doctabs.app/changelog/).
 
 ## Your files stay yours
 
